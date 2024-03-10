@@ -1,0 +1,14 @@
+C:\Users\ELMZ\Desktop\C# ippfm\pedir_datos\bin\Debug\net6.0\pedir_datos.exe
+C:\Users\ELMZ\Desktop\C# ippfm\pedir_datos\bin\Debug\net6.0\pedir_datos.deps.json
+C:\Users\ELMZ\Desktop\C# ippfm\pedir_datos\bin\Debug\net6.0\pedir_datos.runtimeconfig.json
+C:\Users\ELMZ\Desktop\C# ippfm\pedir_datos\bin\Debug\net6.0\pedir_datos.dll
+C:\Users\ELMZ\Desktop\C# ippfm\pedir_datos\bin\Debug\net6.0\pedir_datos.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\pedir_datos\obj\Debug\net6.0\pedir_datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELMZ\Desktop\C# ippfm\pedir_datos\obj\Debug\net6.0\pedir_datos.AssemblyInfoInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\pedir_datos\obj\Debug\net6.0\pedir_datos.AssemblyInfo.cs
+C:\Users\ELMZ\Desktop\C# ippfm\pedir_datos\obj\Debug\net6.0\pedir_datos.csproj.CoreCompileInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\pedir_datos\obj\Debug\net6.0\pedir_datos.dll
+C:\Users\ELMZ\Desktop\C# ippfm\pedir_datos\obj\Debug\net6.0\refint\pedir_datos.dll
+C:\Users\ELMZ\Desktop\C# ippfm\pedir_datos\obj\Debug\net6.0\pedir_datos.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\pedir_datos\obj\Debug\net6.0\pedir_datos.genruntimeconfig.cache
+C:\Users\ELMZ\Desktop\C# ippfm\pedir_datos\obj\Debug\net6.0\ref\pedir_datos.dll
